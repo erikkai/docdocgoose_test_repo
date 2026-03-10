@@ -1,0 +1,15 @@
+{
+  "alert_mode": "single_issue",
+  "docrot": {
+    "priorities_days": {
+      "P1": 7,
+      "P2": 90,
+      "P3": 180
+    },
+    "documents": {
+      "doc_samples/doc_1.md": {
+        "priority": "P1"
+      }
+    }
+  }
+}
